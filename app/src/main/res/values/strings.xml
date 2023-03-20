@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">MyNotaFinal_VM</string>
+    <string name="app_name">Nota Final</string>
+    <string name="final_note">"Nota Final "</string>
+    <string name="note_sesenta">Nota 60%</string>
+    <string name="note_siete">Nota 7%</string>
+    <string name="note_ocho">Nota 8%</string>
+    <string name="note_veinte">Nota 25%</string>
+    <string name="calculate">Calcular</string>
+    <string name="definitive">Definitiva</string>
+    <string name="dispo_moviles">"Nota Final \nDisp. móviles "</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
